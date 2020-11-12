@@ -1,0 +1,12 @@
+{
+  "name": "rnative-p2",
+  "displayName": "rnative-p2",
+  "expo": {
+    "name": "rnative-p2",
+    "slug": "rnative-p2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
