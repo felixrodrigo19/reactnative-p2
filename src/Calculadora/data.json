@@ -1,0 +1,82 @@
+[
+    {
+      "item": "C",
+      "cor": "laranja"
+    },
+    {
+      "item": "+/-",
+      "cor": "laranja"
+    },
+    {
+      "item": "%",
+      "cor": "laranja"
+    },
+    {
+      "item": "/",
+      "cor": "laranja"
+    },
+    {
+      "item": "7",
+      "cor": "cinza"
+    },
+    {
+      "item": "8",
+      "cor": "cinza"
+    },
+    {
+      "item": "9",
+      "cor": "cinza"
+    },
+    {
+      "item": "*",
+      "cor": "laranja"
+    },
+    {
+      "item": "4",
+      "cor": "cinza"
+    },
+    {
+      "item": "5",
+      "cor": "cinza"
+    },
+    {
+      "item": "6",
+      "cor": "cinza"
+    },
+    {
+      "item": "-",
+      "cor": "laranja"
+    },
+    {
+      "item": "1",
+      "cor": "cinza"
+    },
+    {
+      "item": "2",
+      "cor": "cinza"
+    },
+    {
+      "item": "3",
+      "cor": "cinza"
+    },
+    {
+      "item": "+",
+      "cor": "laranja"
+    }  ,
+    {
+      "item": "0",
+      "cor": "cinza"
+    },
+    {
+      "item": "00",
+      "cor": "cinza"
+    },
+    {
+      "item": ",",
+      "cor": "laranja"
+    },
+    {
+      "item": "=",
+      "cor": "laranja"
+    } 
+  ]
